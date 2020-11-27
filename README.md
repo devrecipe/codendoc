@@ -3,7 +3,7 @@ Code'n'doc is an open source documentation CMS built with NodeJS and MongoDB
 
 ## Contributors
 
-[<h4>Karim Sayeh</h4>](https://github.com/karimsaieh)
+[<h4>Karim s.h</h4>](https://github.com/karimsaieh)
 
 ## Sponsors
 
